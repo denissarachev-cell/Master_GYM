@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\bin\Debug\net8.0\GymApp.Data.deps.json
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\bin\Debug\net8.0\GymApp.Data.runtimeconfig.json
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\bin\Debug\net8.0\GymApp.Data.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\bin\Debug\net8.0\GymApp.Data.pdb
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\refint\GymApp.Data.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.pdb
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\GymApp.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Data\obj\Debug\net8.0\ref\GymApp.Data.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\bin\Debug\net8.0\GymApp.Services.deps.json
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\bin\Debug\net8.0\GymApp.Services.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\bin\Debug\net8.0\GymApp.Services.pdb
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\bin\Debug\net8.0\GymApp.Data.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\bin\Debug\net8.0\GymApp.Data.pdb
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.S.A38532BC.Up2Date
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\refint\GymApp.Services.dll
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\GymApp.Services.pdb
+C:\Users\User\Desktop\GymApp_MasterGYM\GymApp\GymApp.Services\obj\Debug\net8.0\ref\GymApp.Services.dll
